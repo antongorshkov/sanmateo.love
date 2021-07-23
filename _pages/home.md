@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/costa-rica-jungle.jpg
   actions:
     - label: "<i class='fas fa-envelope'></i> Subscribe"
-      url: "/docs/quick-start-guide/"
+      url: "https://antongorshkov.m-pages.com/mvCUkf/sanmateo-mailing"
 excerpt: >
   An ex-Pat guide to enjoying a sustainable, healthy and fun life in and around
 feature_row:
@@ -15,7 +15,7 @@ feature_row:
     alt: "outdoors"
     title: "Outdoors"
     excerpt: "Best beaches to surf or enjoy with kids, parks and local hikes"
-    url: "/docs/configuration/"
+    url: "/outdoors/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/fruits.jpg

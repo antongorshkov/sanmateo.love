@@ -23,3 +23,5 @@ Permaculture, unschooling, meditation, natural building, star gazing, vegetarian
 ## Can I join?
 
 Of course! There are many ways to participate, subscribe to our mailing list below, come to one of the events, drop us a note with questions or if you want to edit this site, feel free to contribute by following instructions here.
+
+[subscribe to our mailing list](https://antongorshkov.m-pages.com/mvCUkf/sanmateo-mailing){: .btn .btn--success}
