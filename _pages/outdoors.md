@@ -23,6 +23,14 @@ header:
   - **Cons:** impossibly busy on weekends, avoid, but awesome on weekdays
   - **Pro Tip:** drive as far left as you can to avoid people and then walk even further left
 - [Jaco Beach](https://goo.gl/maps/VanMgovhEAVzJA9s7) - the most popular beach in the area, packed with bars, restuarants and tourists.
+
   - **Pros:** big waves, great for surfing, good food options in town
   - **Cons:** touristy, beach itself doesn't feel cozy
   - **Pro Tip:** avoid
+
+## Parks & Hikes
+
+- [Parque Nacional Carara](https://goo.gl/maps/bxfLkmPYRjAFz9QD9) - great national park, just 30 minutes away. Walk through the Jungle with plenty of wildlife
+  - **Pros:** 2 steps in and you're in a different world
+  - **Cons:** mosquitos, be prepared
+  - **Pro Tip:** get tickets and then drive up a bit to [this](https://goo.gl/maps/pSSn6RYbcWMVaDg78) parking lot

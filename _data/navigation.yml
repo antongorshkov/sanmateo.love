@@ -1,9 +1,15 @@
 main:
+  - title: "Outdoors"
+    url: /outdoors/
+  - title: "Everyday"
+    url: /everyday/
+  - title: "Community"
+    url: /community/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  #- title: "Tags"
+  #  url: /tags/
   - title: "About"
     url: /about/
