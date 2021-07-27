@@ -40,7 +40,9 @@ header:
 
 ## Parks & Hikes
 
-- [Parque Nacional Carara](https://goo.gl/maps/bxfLkmPYRjAFz9QD9) - great national park, just 30 minutes away. Walk through the Jungle with plenty of wildlife
-  - **Pros:** 2 steps in and you're in a different world
-  - **Cons:** mosquitos, be prepared
-  - **Pro Tip:** get tickets and then drive up a bit to [this](https://goo.gl/maps/pSSn6RYbcWMVaDg78) parking lot
+[Parque Nacional Carara](https://goo.gl/maps/bxfLkmPYRjAFz9QD9) - great national park, just 30 minutes away. Walk through the Jungle with plenty of wildlife
+{: .notice--info}
+
+- **Pros:** 2 steps in and you're in a different world
+- **Cons:** mosquitos, be prepared
+- **Pro Tip:** get tickets and then drive up a bit to [this](https://goo.gl/maps/pSSn6RYbcWMVaDg78) parking lot
