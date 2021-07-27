@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Community"
+title: "Tribe"
 permalink: /community/
 hidden: true
 header:
@@ -8,4 +8,4 @@ header:
   overlay_image: /assets/images/outdoors.jpg
 ---
 
-## Community
+## Tribe

@@ -106,3 +106,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-4EWWN4T29Y"
+    anonymize_ip: false # default

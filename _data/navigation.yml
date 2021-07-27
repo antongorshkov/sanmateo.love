@@ -1,9 +1,9 @@
 main:
-  - title: "Outdoors"
+  - title: "Nature"
     url: /outdoors/
-  - title: "Everyday"
+  - title: "Nurture"
     url: /everyday/
-  - title: "Community"
+  - title: "Tribe"
     url: /community/
   - title: "Posts"
     url: /posts/

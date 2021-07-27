@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Outdoors"
+title: "Nature"
 permalink: /outdoors/
 hidden: true
 header:

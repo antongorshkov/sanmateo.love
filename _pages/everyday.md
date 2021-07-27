@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Everday"
+title: "Nurture"
 permalink: /everyday/
 hidden: true
 header:
@@ -8,4 +8,4 @@ header:
   overlay_image: /assets/images/outdoors.jpg
 ---
 
-## Everyday
+## Nurture
