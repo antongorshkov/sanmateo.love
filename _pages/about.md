@@ -25,3 +25,24 @@ Permaculture, unschooling, meditation, natural building, star gazing, vegetarian
 Of course! There are many ways to participate, subscribe to our mailing list below, come to one of the events, drop us a note with questions or if you want to edit this site, feel free to contribute by following instructions here.
 
 [subscribe to our mailing list](https://antongorshkov.m-pages.com/mvCUkf/sanmateo-mailing){: .btn .btn--success}
+
+## Got a question? Shoot us a note:
+
+<form
+  action="https://formspree.io/f/xwkarkao"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+<button type="submit">Send</button>
+
+</form>
