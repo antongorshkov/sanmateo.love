@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-envelope'></i> Subscribe"
       url: "https://antongorshkov.m-pages.com/mvCUkf/sanmateo-mailing"
 excerpt: >
-  An ex-Pat guide to enjoying a sustainable, healthy and fun life in and around
+  A guide to enjoying a sustainable, healthy and fun life in and around San Mateo
 feature_row:
   - image_path: /assets/images/outdoors.jpg
     alt: "nature"
@@ -25,7 +25,7 @@ feature_row:
     url: "/everyday/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/campfire.jpg
+  - image_path: /assets/images/CasaSula.jpg
     alt: "tribe"
     title: "Tribe"
     excerpt: "Find your tribe, join events, explore eco-friendly communities"
