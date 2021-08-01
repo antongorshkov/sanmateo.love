@@ -37,3 +37,9 @@ Search for **'Feria del Agricultor'** on the map to see other locations
 ## The "secret", but well known stuff
 
 - **Organic Lady** - there is a lady that does Organic deliveries in the area and takes orders over WhatsApp, she has great selection of products, always fresh no packaging and excellent service. Please [Contact Us](/about/) for details.
+
+## Restuarants
+
+So as not to re-invent Yelp of Google Maps, I will only include the places here that I think are really worth a visit. Of course there are many more that you'll discover on your own.
+
+- [Jerah Thai Restaurant in Jaco](https://goo.gl/maps/Pobg21EKcabRM3T67) - go there now! [Full Report](/blog/post-jerah-restaurant/).
