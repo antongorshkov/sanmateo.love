@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-In these posts we hope to explore all that San Mateo living has to offer, from practical advice on where to guy your Oat Milk, spotlighting local businesses, very local news, community events and hopefully more.
+In these posts we hope to explore all that San Mateo living has to offer, from practical advice on where to buy your Oat Milk, spotlighting local businesses, very local news, community events and hopefully more.
 
 If you have ideas on what you'd like to see or you'd like to contribute, please [contact us](/about/).
 
