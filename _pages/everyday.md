@@ -43,3 +43,5 @@ Search for **'Feria del Agricultor'** on the map to see other locations
 So as not to re-invent Yelp of Google Maps, I will only include the places here that I think are really worth a visit. Of course there are many more that you'll discover on your own.
 
 - [Jerah Thai Restaurant in Jaco](https://goo.gl/maps/Pobg21EKcabRM3T67) - go there now! [Full Report](/blog/post-jerah-restaurant/).
+- [Almendra Plant-Based Cuisine](https://goo.gl/maps/oWgSzu21zWZTbrp79) - about 30 minutes from San Mateo in Atenas, but very much worth it. Closest Plant-Based restuarant and very tasty.
+- [Choco-Tour San Mateo](https://g.page/Choco-Tour-Costa-Rica?share) - yes, it's a bit of a touristy thing, but not a tourist trap! Authentic chocolate tour, very educational.

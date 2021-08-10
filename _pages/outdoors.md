@@ -38,6 +38,13 @@ header:
 - **Cons:** touristy, beach itself doesn't feel cozy
 - **Pro Tip:** avoid
 
+[El Peñon de Guacalillo](https://goo.gl/maps/CnSXg4x6PNyxqa1WA) - not exactly a beach, but beautiful place to explore caves and sinset views
+{: .notice--info}
+
+- **Pros:** Great views, big caves, unlike any other coast in the area
+- **Cons:** a bit off the beaten path, therefore the path itself is a bit off (dirt road)
+- **Pro Tip:** 4x4 preferrard, but doable with Sedan depending on season. Check tide tables for low tide to explore caves.
+
 ## Parks & Hikes
 
 [Parque Nacional Carara](https://goo.gl/maps/bxfLkmPYRjAFz9QD9) - great national park, just 30 minutes away. Walk through the Jungle with plenty of wildlife
