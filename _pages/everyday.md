@@ -18,7 +18,7 @@ There are a number of local supermarkets in Orotina which you'll find on Google 
 Note that each Auto Mercado can have a slightly different set of products and you may find something in one and not the other.
 {: .notice--info}
 
-## Other Healthy Food Stores
+## Healthy Food Stores
 
 - [Macrobiótica Vida Natural Atenas](https://goo.gl/maps/CSAZMgPAyHKp4Dg88) - closest health food store that will have a decent selection of product snot foundin Auto-Mercado
 - [Green Center Organic Super Market](https://goo.gl/maps/XTeYk8QyjAxmXUxY7) - this is the ultimate "Whole Foods" of Costa Rica. You will usually find almost everything here that you can't in other stores. Yes, it's pricey, and yes, it's not quite Whole Foods :)
@@ -37,6 +37,7 @@ Search for **'Feria del Agricultor'** on the map to see other locations
 ## The "secret", but well known stuff
 
 - **Organic Lady** - there is a lady that does Organic deliveries in the area and takes orders over WhatsApp, she has great selection of products, always fresh no packaging and excellent service. Please [Contact Us](/about/) for details.
+- **Organic Coffee Beans** - you can get high-quality, delicious beans at the chicken parilla across the street from the gas station @ Orotina. Beans are from the Dota region. Sometimes they have bags of shade-grown and organic beans. The guy who runs it has family in the Dota area and that's why this random little place gets organic beans. (tks Nikki for the tip!)
 
 ## Restuarants
 
