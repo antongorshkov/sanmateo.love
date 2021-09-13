@@ -23,6 +23,7 @@ Note that each Auto Mercado can have a slightly different set of products and yo
 - [Macrobiótica Vida Natural Atenas](https://goo.gl/maps/CSAZMgPAyHKp4Dg88) - closest health food store that will have a decent selection of product snot foundin Auto-Mercado
 - [Green Center Organic Super Market](https://goo.gl/maps/XTeYk8QyjAxmXUxY7) - this is the ultimate "Whole Foods" of Costa Rica. You will usually find almost everything here that you can't in other stores. Yes, it's pricey, and yes, it's not quite Whole Foods :)
 - [Nueces Industriales](https://goo.gl/maps/fX54XAhwJqoViGMp7) - Almonds, Walnuts, Cashews, Hazelnuts, etc. All kind of nuts in bulk quantities and excellent prices. Go here once every month or so and stock up on all your nutty needs.
+- [Don Luis Panes](https://www.instagram.com/donluispanes/) - Gluten Free bakery with excellent bread.
 
 ## Farmers Markets aka Feria del Agricultor
 
@@ -30,6 +31,7 @@ There are a lot of local farmers markets that take place weekly in various locat
 
 - [Feria del Agricultor San Mateo](https://goo.gl/maps/YgWdrJMwXyKDKMzn8) - every Thursday from 2pm - 9pm
 - [Feria del Agricultor Orotina](https://goo.gl/maps/pz139vftniPLGZsA8) - every Friday from 5am - Noon
+- [Feria Verde](https://goo.gl/maps/2Wj3kbWWAS2QHwLA6) - every Saturday 7am - 1pm. This is a special one, lots of unique / artisanal vendors.
 
 Search for **'Feria del Agricultor'** on the map to see other locations
 {: .notice--info}
