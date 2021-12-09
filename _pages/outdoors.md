@@ -10,6 +10,13 @@ header:
 
 ## Beaches
 
+[Playa Tivives](https://goo.gl/maps/DemwqQxXo2PhkhC86) - raw beach with no infrastructure around it - nature at it's purest.
+{: .notice--info}
+
+- **Pros:** long beach, big waves with a little bay that has calm water for kids to swim
+- **Cons:** feels sort of "out there", even though it's not that far (this could be a pro)
+- **Pro Tip:** visit here when you want to get away from it all
+
 [Playa Pogeres aka "Vista Mar"](https://goo.gl/maps/psCWmYJvtjy62thP9) - is the closest beach from San Mateo, about 35 minute drive and best of all, you're driving on good paved roads only!
 {: .notice--info}
 
