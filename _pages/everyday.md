@@ -51,4 +51,5 @@ So as not to re-invent Yelp of Google Maps, I will only include the places here 
 - [La Casita del Café](https://goo.gl/maps/gWvipbFB4PSS9BhGA) - good coffee and comida tipica, and a view to knock your socks off.
 - [La Poza Blanca](https://goo.gl/maps/oZ75Aivgi3HS1fkD8) - local favorite
 - [Malau Orotina](https://goo.gl/maps/PofPThFJ6be3BiGG6) - possibly best restaurant in Orotina.  Off the beaten path and standard fare, but quality food and service. Best Ceviche!
+- [Monsoon Asian Bistro & Neapolitan Pizza](https://goo.gl/maps/MFpGYMC4DPpoXYNq8) - can you have a place that has awesome Indian and Great Pizza under one roof?  Apparently the answer is yes.
 - [Choco-Tour San Mateo](https://g.page/Choco-Tour-Costa-Rica?share) - yes, it's a bit of a touristy thing, but not a tourist trap! Authentic chocolate tour, very educational.
