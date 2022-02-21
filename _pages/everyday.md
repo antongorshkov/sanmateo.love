@@ -47,4 +47,5 @@ So as not to re-invent Yelp of Google Maps, I will only include the places here 
 
 - [Jerah Thai Restaurant in Jaco](https://goo.gl/maps/Pobg21EKcabRM3T67) - go there now! [Full Report](/blog/post-jerah-restaurant/).
 - [Almendra Plant-Based Cuisine](https://goo.gl/maps/oWgSzu21zWZTbrp79) - about 30 minutes from San Mateo in Atenas, but very much worth it. Closest Plant-Based restuarant and very tasty.
+- [Mae Culpa Restaurante y Pizzería a la Leña](https://g.page/maeculpa?share) - amazing views, good pizza & Itlian dishes (use Waze! really important for this one)
 - [Choco-Tour San Mateo](https://g.page/Choco-Tour-Costa-Rica?share) - yes, it's a bit of a touristy thing, but not a tourist trap! Authentic chocolate tour, very educational.
