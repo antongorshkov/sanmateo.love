@@ -14,6 +14,7 @@ There are a number of local supermarkets in Orotina which you'll find on Google 
 
 - [Auto Mercado - Plaza Herradura](https://goo.gl/maps/vmGtq92b97MXcAoq7) - this is the easiest one to drive to, takes about 40 minutes and avoids the main highway. You can also combine this easily with a beach stop.
 - [Auto Mercado - Guácima](https://goo.gl/maps/U2Enpq2fQGsjtPFR7) - this is the closest one in San Jose area, it will have a very similar selection to the one in Herradura.
+- [PriceSmart](https://goo.gl/maps/Zycub971F7NWUkBr8) - Costco of Costa Rica.  Your once-a-quarter trip to load up on essnetials and occasional hard to find things.  Good prices, large packages.  Membership required, but 1 year will only cost $40 or so.
 
 Note that each Auto Mercado can have a slightly different set of products and you may find something in one and not the other.
 {: .notice--info}
@@ -24,6 +25,8 @@ Note that each Auto Mercado can have a slightly different set of products and yo
 - [Green Center Organic Super Market](https://goo.gl/maps/XTeYk8QyjAxmXUxY7) - this is the ultimate "Whole Foods" of Costa Rica. You will usually find almost everything here that you can't in other stores. Yes, it's pricey, and yes, it's not quite Whole Foods :)
 - [Nueces Industriales](https://goo.gl/maps/fX54XAhwJqoViGMp7) - Almonds, Walnuts, Cashews, Hazelnuts, etc. All kind of nuts in bulk quantities and excellent prices. Go here once every month or so and stock up on all your nutty needs.
 - [Don Luis Panes](https://www.instagram.com/donluispanes/) - Gluten Free bakery with excellent bread.
+- [EcoPlaza](https://goo.gl/maps/WeaCct9fgQo88AZf6) - Nice plaza with many eco-friendly stores and a couple of restaurants
+- [Cúrcuma](https://goo.gl/maps/AbvoJJn24YYMiNo2A) - for all your spices needs, almost everything here you'll need, though a bit pricey.
 
 ## Farmers Markets aka Feria del Agricultor
 
@@ -54,3 +57,7 @@ So as not to re-invent Yelp of Google Maps, I will only include the places here 
 - [Malau Orotina](https://goo.gl/maps/PofPThFJ6be3BiGG6) - possibly best restaurant in Orotina.  Off the beaten path and standard fare, but quality food and service. Best Ceviche!
 - [Monsoon Asian Bistro & Neapolitan Pizza](https://goo.gl/maps/MFpGYMC4DPpoXYNq8) - can you have a place that has awesome Indian and Great Pizza under one roof?  Apparently the answer is yes.
 - [Choco-Tour San Mateo](https://g.page/Choco-Tour-Costa-Rica?share) - yes, it's a bit of a touristy thing, but not a tourist trap! Authentic chocolate tour, very educational.
+
+## Places to Hang
+
+- [Avenida Escazú](https://goo.gl/maps/LmcjhroH4JqvqdRk9) - feeling like you miss US? Perhaps you want to walk Santa Monica Boulevard or visit Miami Beach?  While not exactly like those places, this little street certainly rhymes.  Pretty stores, cute restaurants & cafes, all outdoors with good parking and very modern amenities. If you need to itch that "Modern City" itch, come here.
