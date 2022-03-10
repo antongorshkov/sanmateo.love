@@ -27,7 +27,7 @@ Note that each Auto Mercado can have a slightly different set of products and yo
 - [Don Luis Panes](https://www.instagram.com/donluispanes/) - Gluten Free bakery with excellent bread.
 - [EcoPlaza](https://goo.gl/maps/WeaCct9fgQo88AZf6) - Nice plaza with many eco-friendly stores and a couple of restaurants
 - [Cúrcuma](https://goo.gl/maps/AbvoJJn24YYMiNo2A) - for all your spices needs, almost everything here you'll need, though a bit pricey.
-- [El Tramito a Granel Escazu](https://g.page/tramito?share) - assortment of spices, salts, grains and everything you need to cook, bake, season and even eat at once is overwhelming. Great for buying things in bulk. 
+- [El Tramito a Granel Escazu](https://g.page/tramito?share) - assortment of spices, salts, grains and everything you need to cook, bake, season and even eat at once is overwhelming. Great for buying things in bulk. They also do deliveries though "encomienda" on the buses.
 
 ## Farmers Markets aka Feria del Agricultor
 
