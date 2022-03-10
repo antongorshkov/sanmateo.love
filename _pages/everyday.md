@@ -8,13 +8,14 @@ header:
   overlay_image: /assets/images/outdoors.jpg
 ---
 
-## Supermarkets
+## Supermarkets & Department Stores
 
 There are a number of local supermarkets in Orotina which you'll find on Google Maps - they will have the basics, but you will not find all the produce that you normally would at home. For a much better selection that's more akin to American-style super-market you have to drive to Auto-Mercado. There are many locations which you can find on the maps, the two closest to San Mateo are:
 
 - [Auto Mercado - Plaza Herradura](https://goo.gl/maps/vmGtq92b97MXcAoq7) - this is the easiest one to drive to, takes about 40 minutes and avoids the main highway. You can also combine this easily with a beach stop.
 - [Auto Mercado - Guácima](https://goo.gl/maps/U2Enpq2fQGsjtPFR7) - this is the closest one in San Jose area, it will have a very similar selection to the one in Herradura.
 - [PriceSmart](https://goo.gl/maps/Zycub971F7NWUkBr8) - Costco of Costa Rica.  Your once-a-quarter trip to load up on essnetials and occasional hard to find things.  Good prices, large packages.  Membership required, but 1 year will only cost $40 or so.
+- [Aliss](https://goo.gl/maps/3uJXtBdaKwYQfucK7) - lare department store that has everything for your home.
 
 Note that each Auto Mercado can have a slightly different set of products and you may find something in one and not the other.
 {: .notice--info}
