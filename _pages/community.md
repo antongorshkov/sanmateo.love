@@ -14,11 +14,12 @@ Besides local public schools, there is really only one international / progressi
 
 ## Communities
 
-There are two communities with more in planning that you can make your home. La Ecovilla was the original community which has 46 homes and was created around 2011. Allegria Village is a newer community which is only beginning to be built as of 2021 and will have close to 150 homes.
+There are three communities with more in planning that you can make your home. La Ecovilla was the original community which has 46 homes and was created around 2011. Allegria Village is a newer community which is only beginning to be built as of 2021 and will have close to 150 homes.  EcoVilla San Mateo is the newest project which will be the size of 5 EcoVillas and has launched in early 2022.
 
 - [La EcoVilla](https://www.laecovilla.com/)
+- [EcoVilla San Mateo](https://www.laecovilla.com/ecovilla-san-mateo/)
 - [Allegria Village](https://www.alegriavillage.com/)
 
-Both of these communities are international and permaculture-centric, however they have a very different feel and as a result the people you will find there will be different. Hving said that, neither of them are "homogeneous" and you will likely find the people that resonate with you in both. The best way to explore and see if either of them is for you is to visit and connect with some of the people living here.
+All of these communities are international and permaculture-centric, however they have a very different feel and as a result the people you will find there will be different. Hving said that, neither of them are "homogeneous" and you will likely find the people that resonate with you in both. The best way to explore and see if either of them is for you is to visit and connect with some of the people living there.
 
-Of course you could always just buy land outside of these communities and build your dream home anywhere in the area. This option will be significantly cheaper, but you will not enjoy much of the community benefits such as existing infrastrcuture and of course the people.
+You could always just buy land outside of these communities and build your dream home anywhere in the area. This option will be significantly cheaper, but you will not enjoy much of the community benefits such as existing infrastrcuture and of course the people. If you're interested in finding land outside of communities, give <site> a try.
