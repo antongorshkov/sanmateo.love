@@ -20,6 +20,6 @@ There are three communities with more in planning that you can make your home. L
 - [EcoVilla San Mateo](https://www.laecovilla.com/ecovilla-san-mateo/)
 - [Allegria Village](https://www.alegriavillage.com/)
 
-All of these communities are international and permaculture-centric, however they have a very different feel and as a result the people you will find there will be different. Hving said that, neither of them are "homogeneous" and you will likely find the people that resonate with you in both. The best way to explore and see if either of them is for you is to visit and connect with some of the people living there.
+All of these communities are international and permaculture-centric, however they have a very different feel and as a result the people you will find there will be different. Having said that, neither of them are "homogeneous" and you will likely find the people that resonate with you in both. The best way to explore and see if either of them is for you is to visit and connect with some of the people living there.
 
 You could always just buy land outside of these communities and build your dream home anywhere in the area. This option will be significantly cheaper, but you will not enjoy much of the community benefits such as existing infrastrcuture and of course the people. If you're interested in finding land outside of communities, give <site> a try.
