@@ -61,4 +61,4 @@ So as not to re-invent Yelp of Google Maps, I will only include the places here 
 
 ## Places to Hang
 
-- [Avenida Escazú](https://goo.gl/maps/LmcjhroH4JqvqdRk9) - feeling like you miss US? Perhaps you want to walk Santa Monica Boulevard or visit Miami Beach?  While not exactly like those places, this little street certainly rhymes.  Pretty stores, cute restaurants & cafes, all outdoors with good parking and very modern amenities. If you need to itch that "Modern City" itch, come here.
+- [Avenida Escazú](https://goo.gl/maps/LmcjhroH4JqvqdRk9) - feeling like you miss US? Perhaps you want to walk Santa Monica Boulevard or visit Miami Beach?  While not exactly like those places, this little street certainly rhymes.  Pretty stores, cute restaurants & cafes, all outdoors with good parking and very modern amenities. If you need to scratch that "Modern City" itch, come here.
