@@ -32,9 +32,9 @@ Note that each Auto Mercado can have a slightly different set of products and yo
 
 There are a lot of local farmers markets that take place weekly in various locations. Depending on location their size and selection will vary greatly and of course depending on season. The two closest to San Mateo are:
 
-- [Feria del Agricultor San Mateo](https://goo.gl/maps/YgWdrJMwXyKDKMzn8) - every Thursday from 2pm - 9pm
-- [Feria del Agricultor Orotina](https://goo.gl/maps/pz139vftniPLGZsA8) - every Friday from 5am - Noon
-- [Feria del Agricultor de Atenas](https://goo.gl/maps/L7mAZWCbVEh8sYSa7) - Thursday afternoons and Friday mornings.
+- [Feria del Agricultor San Mateo](https://goo.gl/maps/YgWdrJMwXyKDKMzn8) - Thursdays from 2pm - 8pm
+- [Feria del Agricultor Orotina](https://goo.gl/maps/pz139vftniPLGZsA8) - Fridays from 5am - Noon
+- [Feria del Agricultor de Atenas](https://goo.gl/maps/L7mAZWCbVEh8sYSa7) - Thursday Noon - 8pm, and Fridays 6am - Noon
 - [Feria Verde](https://goo.gl/maps/2Wj3kbWWAS2QHwLA6) - every Saturday 7am - 1pm. This is a special one, lots of unique / artisanal vendors.
 
 Search for **'Feria del Agricultor'** on the map to see other locations
